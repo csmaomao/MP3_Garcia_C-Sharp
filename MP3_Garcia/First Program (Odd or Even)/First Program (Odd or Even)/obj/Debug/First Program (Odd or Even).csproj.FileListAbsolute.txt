@@ -1,0 +1,21 @@
+C:\Users\student\Desktop\CK Project\First Program (Odd or Even)\First Program (Odd or Even)\bin\Debug\First Program (Odd or Even).exe.config
+C:\Users\student\Desktop\CK Project\First Program (Odd or Even)\First Program (Odd or Even)\bin\Debug\First Program (Odd or Even).exe
+C:\Users\student\Desktop\CK Project\First Program (Odd or Even)\First Program (Odd or Even)\bin\Debug\First Program (Odd or Even).pdb
+C:\Users\student\Desktop\CK Project\First Program (Odd or Even)\First Program (Odd or Even)\obj\Debug\First Program (Odd or Even).csprojAssemblyReference.cache
+C:\Users\student\Desktop\CK Project\First Program (Odd or Even)\First Program (Odd or Even)\obj\Debug\First Program (Odd or Even).csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CK Project\First Program (Odd or Even)\First Program (Odd or Even)\obj\Debug\First Program (Odd or Even).exe
+C:\Users\student\Desktop\CK Project\First Program (Odd or Even)\First Program (Odd or Even)\obj\Debug\First Program (Odd or Even).pdb
+C:\Users\student\Desktop\CK Project\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\bin\Debug\First Program (Odd or Even).exe.config
+C:\Users\student\Desktop\CK Project\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\bin\Debug\First Program (Odd or Even).exe
+C:\Users\student\Desktop\CK Project\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\bin\Debug\First Program (Odd or Even).pdb
+C:\Users\student\Desktop\CK Project\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\obj\Debug\First Program (Odd or Even).csprojAssemblyReference.cache
+C:\Users\student\Desktop\CK Project\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\obj\Debug\First Program (Odd or Even).csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CK Project\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\obj\Debug\First Program (Odd or Even).exe
+C:\Users\student\Desktop\CK Project\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\obj\Debug\First Program (Odd or Even).pdb
+C:\Users\CK\Documents\ComProg\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\bin\Debug\First Program (Odd or Even).exe.config
+C:\Users\CK\Documents\ComProg\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\bin\Debug\First Program (Odd or Even).exe
+C:\Users\CK\Documents\ComProg\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\bin\Debug\First Program (Odd or Even).pdb
+C:\Users\CK\Documents\ComProg\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\obj\Debug\First Program (Odd or Even).csproj.AssemblyReference.cache
+C:\Users\CK\Documents\ComProg\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\obj\Debug\First Program (Odd or Even).csproj.CoreCompileInputs.cache
+C:\Users\CK\Documents\ComProg\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\obj\Debug\First Program (Odd or Even).exe
+C:\Users\CK\Documents\ComProg\MP3_Garcia\First Program (Odd or Even)\First Program (Odd or Even)\obj\Debug\First Program (Odd or Even).pdb

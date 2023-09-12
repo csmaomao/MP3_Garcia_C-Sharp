@@ -1,0 +1,21 @@
+C:\Users\student\Desktop\CK Project\Second Program (Grades)\Second Program (Grades)\bin\Debug\Second Program (Grades).exe.config
+C:\Users\student\Desktop\CK Project\Second Program (Grades)\Second Program (Grades)\bin\Debug\Second Program (Grades).exe
+C:\Users\student\Desktop\CK Project\Second Program (Grades)\Second Program (Grades)\bin\Debug\Second Program (Grades).pdb
+C:\Users\student\Desktop\CK Project\Second Program (Grades)\Second Program (Grades)\obj\Debug\Second Program (Grades).csprojAssemblyReference.cache
+C:\Users\student\Desktop\CK Project\Second Program (Grades)\Second Program (Grades)\obj\Debug\Second Program (Grades).csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CK Project\Second Program (Grades)\Second Program (Grades)\obj\Debug\Second Program (Grades).exe
+C:\Users\student\Desktop\CK Project\Second Program (Grades)\Second Program (Grades)\obj\Debug\Second Program (Grades).pdb
+C:\Users\student\Desktop\CK Project\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\bin\Debug\Second Program (Grades).exe.config
+C:\Users\student\Desktop\CK Project\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\bin\Debug\Second Program (Grades).exe
+C:\Users\student\Desktop\CK Project\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\bin\Debug\Second Program (Grades).pdb
+C:\Users\student\Desktop\CK Project\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\obj\Debug\Second Program (Grades).csprojAssemblyReference.cache
+C:\Users\student\Desktop\CK Project\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\obj\Debug\Second Program (Grades).csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\CK Project\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\obj\Debug\Second Program (Grades).exe
+C:\Users\student\Desktop\CK Project\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\obj\Debug\Second Program (Grades).pdb
+C:\Users\CK\Documents\ComProg\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\bin\Debug\Second Program (Grades).exe.config
+C:\Users\CK\Documents\ComProg\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\bin\Debug\Second Program (Grades).exe
+C:\Users\CK\Documents\ComProg\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\bin\Debug\Second Program (Grades).pdb
+C:\Users\CK\Documents\ComProg\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\obj\Debug\Second Program (Grades).csproj.AssemblyReference.cache
+C:\Users\CK\Documents\ComProg\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\obj\Debug\Second Program (Grades).csproj.CoreCompileInputs.cache
+C:\Users\CK\Documents\ComProg\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\obj\Debug\Second Program (Grades).exe
+C:\Users\CK\Documents\ComProg\MP3_Garcia\Second Program (Grades)\Second Program (Grades)\obj\Debug\Second Program (Grades).pdb
